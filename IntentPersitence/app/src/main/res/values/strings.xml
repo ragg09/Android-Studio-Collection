@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent&amp;Persitence</string>
+    <string name="intent_implicit">Intent Implicit</string>
+    <string name="explicit">Explicit</string>
+
+    <string-array name="city">
+        <item>Taguig</item>
+        <item>Pasay</item>
+        <item>Cavite</item>
+    </string-array>
+</resources>

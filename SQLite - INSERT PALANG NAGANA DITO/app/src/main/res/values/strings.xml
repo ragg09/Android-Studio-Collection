@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="add">add</string>
+    <string name="view">View</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Class&amp;Object</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="year">Year</string>
+    <string name="section">Section</string>
+    <string name="course">Course</string>
+</resources>

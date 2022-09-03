@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animation&amp;Fragments</string>
+    <string name="frag1">frag1</string>
+    <string name="frag2">frag2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragmet">First Fragmet</string>
+    <string name="fragment_2">Fragment 2</string>
+</resources>
